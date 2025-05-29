@@ -21,7 +21,7 @@ These prompts are ideal for:
 
 ## How to Use The Prompts
 
-1.  **Browse through the folders
+1.  **Browse through the folders.**
 2.  **Copy the desired prompt.**
 3.  **Paste it into your preferred AI tool.**
 4.  **Adapt the placeholders:** Many prompts will have `[brackets]` or other markers indicating where you should insert specific information about your context or business.
