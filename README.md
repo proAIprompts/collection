@@ -18,7 +18,6 @@ These prompts are ideal for:
 * Marketing and Sales Professionals
 * Consultants and Strategists
 * Anyone looking to leverage the power of AI for better professional results.
-* And occasionally you might find out some personal stuff for a change
 
 ## How to Use The Prompts
 
@@ -29,8 +28,6 @@ These prompts are ideal for:
 5.  **Iterate and Refine:** The AI's first response is a starting point. Feel free to refine the prompt or ask the AI to expand or modify the response.
 
 ## Contributions 
-
-## Contributions
 
 Your ideas and contributions are welcome to make this collection even better!
 
